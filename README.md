@@ -1,6 +1,6 @@
 # Emotion Classification Model
 
-This project builds a neural network to classify text into emotional categories using the **GoEmotions dataset**. It provides two classification levels:
+This project aims to develop a neural network model capable of detecting and identifying the emotional state behind a post. 
 1. **28 Distinct Emotions**: Classifies data into individual emotions:admiration, amusement, anger, annoyance, approval,caring,confusion,curiosity,desire,disappointment","disapproval","disgust","embarrassment","excitement","fear",gratitude,grief,joy,love,nervousness,optimism,pride,realization,relief,remorse,sadness,surprise,neutral
 2. **3 Grouped Categories**: Groups the 28 emotions into **positive**, **negative**, and **ambiguous** categories for broader sentiment analysis.
 3 **6 emotions** Classifies data into 6 different emotions with the Twitter dataset. The dataset has 1.3 million data entries.
