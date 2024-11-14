@@ -3,8 +3,8 @@
 This project aims to develop a neural network model capable of detecting and identifying the emotional state behind a post. It is using the goEmotions dataset from google with 140000 posts and a Twitter dataset with 1.3 million posts. 
 1. **28 Distinct Emotions**: Classifies data into individual emotions:admiration, amusement, anger, annoyance, approval,caring,confusion,curiosity,desire,disappointment","disapproval","disgust","embarrassment","excitement","fear",gratitude,grief,joy,love,nervousness,optimism,pride,realization,relief,remorse,sadness,surprise,neutral
 2. **3 Grouped Categories**: Groups the 28 emotions into **positive**, **negative**, and **ambiguous** categories for broader sentiment analysis.<br>
-3 **6 emotions** Classifies data into 6 different emotions with the Twitter dataset. The dataset has 1.3 million data entries.<br>
-4 **6 emotions with other vectorizer** Classifies data into 6 different emotions with the Twitter dataset. It uses a different vectorzer and shows better evaluation statistics.
+3. **6 emotions** Classifies data into 6 different emotions with the Twitter dataset. The dataset has 1.3 million data entries.<br>
+4. **6 emotions with other vectorizer** Classifies data into 6 different emotions with the Twitter dataset. It uses a different vectorzer and shows better evaluation statistics.
 
 
 ## Overview
